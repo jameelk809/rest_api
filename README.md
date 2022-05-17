@@ -53,8 +53,6 @@ rest_api
             serializers.cpython-39.pyc
             views.cpython-39.pyc
             __init__.cpython-39.pyc
-
-
 ```
 
 ## Screenshots
